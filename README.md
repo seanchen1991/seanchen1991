@@ -10,7 +10,7 @@ I thoroughly enjoy writing as a way to teach myself new things. One of the best 
 
 - [Hermes architecture overview][hermes-arch]: An overview of the high-level architecture of the Hermes relayer, meant to educate those new to the Cosmos ecosystem about how Hermes works.
 
-- [ibc-rs ADR][ibs-rs-adr]: An Architecture Decision Record detailing a proposal to refactor the error handling system of the ibc-rs library, to communicate breaking changes with users and maintainers.
+- [IBC ADR][ibs-rs-adr]: An Architecture Decision Record detailing a proposal to refactor the error handling system of the ibc-rs library, to communicate breaking changes with users and maintainers.
 
 ### Teaching Posts
 
