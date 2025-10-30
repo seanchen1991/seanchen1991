@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sean, a software educator, storyteller, and engineer. I've worked across multiple domains throughout my 10+ year career, but education and developer relations are where I am most aligned. 
+I'm Sean, a software educator, technical writer, and engineer. I've worked across multiple domains throughout my 10+ year career, but education and developer relations are where I am most aligned. 
 
 I thoroughly enjoy writing as a way to teach myself new things. One of the best parts about it is being able to share those writings with others. Below is a sample of some of the things that I'm proud to have worked on:
 
